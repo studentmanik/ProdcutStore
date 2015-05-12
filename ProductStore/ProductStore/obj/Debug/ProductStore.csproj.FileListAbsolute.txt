@@ -1,0 +1,9 @@
+E:\manik\DatabaseParactics\ProductStore\ProductStore\bin\Debug\ProductStore.exe.config
+E:\manik\DatabaseParactics\ProductStore\ProductStore\bin\Debug\ProductStore.exe
+E:\manik\DatabaseParactics\ProductStore\ProductStore\bin\Debug\ProductStore.pdb
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.ProductEntryForm.resources
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.Cache
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.exe
+E:\manik\DatabaseParactics\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
